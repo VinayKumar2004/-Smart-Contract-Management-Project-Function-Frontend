@@ -65,3 +65,9 @@ npm run build: Builds the React application for production.
 The React application (App.js) provides a user interface to interact with the deployed PatientAdmit contract. It allows you to admit patients, fetch patient details, and discharge patients.
 
 Make sure you have MetaMask installed and configured to connect to the desired Ethereum network.
+
+## Authors
+Vinay Kumar (https://github.com/VinayKumar2004)
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
